@@ -1,7 +1,7 @@
 [![MasterHead](./assets/MasterHead.png)](https://nasrallah04.github.io/)
 
 <h1 align="center">Hi 👋, I'm ILYASS NASRALLAH</h1>
-<h2 align="center">A passionate FullStack developer</h2>
+<h3 align="center">A passionate FullStack developer</h3>
 
 - 🌱 I’m currently learning **Typescript, NextJS and React Native**
 
@@ -55,8 +55,8 @@
 <a href="https://linkedin.com/in/ilyass-nasrallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyass-nasrallah" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrallah04&show_icons=true&locale=en&layout=compact" alt="nasrallah04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrallah04&show_icons=true&locale=en&layout=compact" alt="nasrallah04" /></p>
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nasrallah04&show_icons=true&localecenter=en" alt="nasrallah04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasrallah04&show_icons=true&locale=en" alt="nasrallah04" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasrallah04&" alt="nasrallah04" /></p>
